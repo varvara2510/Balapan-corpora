@@ -1,0 +1,390 @@
+<html>
+<head>
+</head>
+<body>
+  <para id="0">
+    <se lang="kk"><w><ana lex="кемпір" gr="S,nom" /><text>кемпір</text></w><w><ana lex="бол" gr="V,indic,sg,3p,praet,fin" /><text>болыпты</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Жили себе дед да баба.</se>
+    </para>
+  <para id="1">
+    <se lang="kk"><w><ana lex="бала" gr="S,nom,pl" /><text>Балалары</text></w><w><ana lex="жоқ" gr="A" /><text>жоқ</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="екеу" gr="NUM,nom" /><text>екеуі ғана</text><ana lex="ғана" gr="ADV" /><text>екеуі ғана</text></w><w><ana lex="өмір" gr="" /><text>өмір</text></w><w><ana lex="сүріп" gr="V,indic,sg,3p,praet,fin" /><text>сүріпті</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="2">
+    <se lang="kk"><w><ana lex="бір" gr="NUM" /><text>Бір</text></w><w><ana lex="күн" gr="S,nom" /><text>күні</text></w><w><ana lex="шал" gr="S,nom" /><text>шал</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="3">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="кемпір" gr="S,nom" /><text>Кемпір</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бүгін" gr="ADV" /><text>бүгін</text></w></se>
+    <se lang="ru">Дед говорит бабе:</se>
+    </para>
+  <para id="4">
+    <se lang="kk"><w><ana lex="бәліш" gr="S,nom" /><text>бәліш</text></w><w><ana lex="пісір" gr="V,imper,sg,2p,fin" /><text>пісір</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ал" gr="CONJ" /><text>ал</text></w><w><ana lex="мен" gr="PRO,nom,sg,1p" /><text>мен</text></w><w><ana lex="біраз" gr="DET" /><text>біраз</text></w><w><ana lex="балық" gr="S,nom" /><text>балық</text></w><w><ana lex="аула" gr="V,inf" /><text>аулап</text></w><w><ana lex="кел" gr="V, aux,indic,sg,1p,praet,fin" /><text>келейін</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="ки" gr="V,inf" /><text>киіне</text></w><w><ana lex="баста" gr="V, aux,indic,sg,3p,praes,fin" /><text>бастайды</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="сырт" gr="S,dat" /><text>Сыртқа</text></w><w><ana lex="шық" gr="V,ger" /><text>шығып</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru">— Ты, баба, пеки пироги, а я запрягу сани, да поеду за рыбой.</se>
+    </para>
+  <para id="5">
+    <se lang="kk"><w><ana lex="шанан" gr="S,acc" /><text>шананы</text></w><w><ana lex="ат" gr="S,dat" /><text>атқа</text></w><w><ana lex="ертте" gr="V,ger" /><text>ерттеп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="балық" gr="S,nom" /><text>балық</text></w><w><ana lex="аула" gr="V,dat" /><text>аулауға</text></w><w><ana lex="кет" gr="V,indic,sg,3p,praes,fin" /><text>кетеді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Наловил рыбы и везет домой целый воз.</se>
+    </para>
+  <para id="6">
+    <se lang="kk"><w><ana lex="түс" gr="S,nom" /><text>Түс</text></w><w><ana lex="қайт" gr="V,ger" /><text>қайта</text></w><w><ana lex="аула" gr="V,praet,partcp" /><text>аулаған</text></w><w><ana lex="балық" gr="S,acc,pl" /><text>балықтарын</text></w><w><ana lex="шана" gr="S,dat" /><text>шанаға</text></w><w><ana lex="тие" gr="V,ger" /><text>тиеп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үй" gr="S,dat" /><text>үйіне</text></w><w><ana lex="қайт" gr="V,indic,sg,3p,praes,fin" /><text>қайтады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Вот едет он и видит: лисичка свернулась калачиком и лежит на дороге.</se>
+    </para>
+  <para id="7">
+    <se lang="kk"><w><ana lex="жолда" gr="ADV" /><text>Жолда</text></w><w><ana lex="өтірік" gr="S,nom" /><text>өтірік</text></w><w><ana lex="өл" gr="V,inf" /><text>өліп</text></w><w><ana lex="жат" gr="V, aux,praet,partcp" /><text>жатқан</text></w><w><ana lex="қу" gr="A" /><text>қу</text></w><w><ana lex="түлкі" gr="S,acc" /><text>түлкіні</text></w><w><ana lex="көр" gr="V,indic,sg,3p,praes,fin" /><text>көреді</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="қуан" gr="V,inf" /><text>Қуанып</text></w><w><ana lex="кет" gr="V, aux,praet,partcp" /><text>кеткен</text></w><w><ana lex="шал" gr="S,nom" /><text>шал</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru">Дед слез с воза, подошел к лисичке, а она не ворохнется, лежит себе как мертвая.</se>
+    </para>
+  <para id="8">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="міне" gr="INTJ" /><text>Міне</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="олжа" gr="S,nom" /><text>олжа</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="кемпір" gr="S,dat" /><text>Кемпіріме</text></w><w><ana lex="апар" gr="V,ger" /><text>апарып</text></w><w><ana lex="бер" gr="V, aux,sg,1p,fin" /><text>берейін</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="тон" gr="S,dat" /><text>тонына</text></w><w><ana lex="жақ" gr="V,imper,sg,2p,fin" /><text>жаға</text></w><w><ana lex="бол" gr="V, aux,indic,sg,3p,praet,fin" /><text>болар</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="ойла" gr="V,indic,sg,3p,praes,fin" /><text>ойлайды</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Вот будет подарок жене, — сказал дед, взял лисичку и положил на воз, а сам пошел впереди.</se>
+    </para>
+  <para id="9">
+    <se lang="kk"><w><ana lex="жерге" gr="S,dat" /><text>Жерге</text></w><w><ana lex="түс" gr="V,ger" /><text>түсіп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="түлкі" gr="S,acc" /><text>түлкіні</text></w><w><ana lex="балық" gr="S,nom" /><text>балық</text></w><w><ana lex="толы" gr="A" /><text>толы</text></w><w><ana lex="шана" gr="S,dat" /><text>шанаға</text></w><w><ana lex="көтер" gr="V,ger" /><text>көтеріп</text></w><w><ana lex="жатқыз" gr="V,ger" /><text>жатқызып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="өз" gr="PRO,nom" /><text>өзі</text></w><w><ana lex="ат" gr="S,acc" /><text>атын</text></w><w><ana lex="жетекте" gr="V,ger" /><text>жетектеп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үй" gr="S,dat" /><text>үйіне</text></w><w><ana lex="қарай" gr="PR" /><text>қарай</text></w></se>
+    <se lang="ru">А лисичка улучила время и стала выбрасывать полегоньку из воза все по рыбке да по рыбке, все по рыбке да по рыбке.</se>
+    </para>
+  <para id="10">
+    <se lang="kk"><w><ana lex="аяңда" gr="V,indic,sg,3p,praes,fin" /><text>аяңдайды</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="ал" gr="CONJ" /><text>Ал</text></w><w><ana lex="бұл" gr="DET" /><text>бұл</text></w><w><ana lex="кез" gr="S" /><text>кезде</text></w></se>
+    <se lang="ru">Повыбросила всю рыбку и сама ушла.</se>
+    </para>
+  <para id="11">
+    <se lang="kk"><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w><w><ana lex="уақыт" gr="S,acc" /><text>уақытын</text></w><w><ana lex="бос" gr="S,dat" /><text>босқа</text></w><w><ana lex="жоғалт" gr="V,ger" /><text>жоғалтпай</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="балық" gr="S,acc,pl" /><text>балықтарды</text></w><w><ana lex="біртіндеп" gr="ADV" /><text>біртіндеп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="жол-жөнекей" gr="A" /><text>жол-жөнекей</text></w><w><ana lex="шана" gr="S" /><text>шанадан</text></w><w><ana lex="таста" gr="V,inf" /><text>тастап</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="12">
+    <se lang="kk"><w><ana lex="отыр" gr="V,indic,sg,3p,praes,fin" /><text>отырады</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="қулық" gr="S,ins" /><text>Қулықпен</text></w><w><ana lex="тап" gr="V,praet,partcp" /><text>тапқан</text></w><w><ana lex="олжа" gr="S,acc" /><text>олжасын</text></w><w><ana lex="түгел" gr="ADV" /><text>түгел</text></w><w><ana lex="лақтыр" gr="V,inf" /><text>лақтырып</text></w><w><ana lex="бол" gr="V, aux,praet" /><text>болған соң</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="өз" gr="PRO,nom" /><text>өзі де</text><ana lex="да" gr="ADV" /><text>өзі де</text></w><w><ana lex="түс" gr="V,inf" /><text>түсіп</text></w><w><ana lex="қал" gr="V, aux,indic,sg,3p,praes,fin" /><text>қалады</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="үй" gr="S,dat" /><text>Үйіне</text></w><w><ana lex="жет" gr="V,praet,partcp" /><text>жеткен</text></w><w><ana lex="шал" gr="S,nom" /><text>шал</text></w><w><ana lex=":" gr="" /><text>:</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="кемпір-ау" gr="INTJ" /><text>Кемпір-ау</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бері" gr="V,indic,sg,3p,praet,fin" /><text>бері</text></w></se>
+    <se lang="ru">— Ну, старуха, — говорит дед, — какой воротник привез я тебе на шубу!</se>
+    </para>
+  <para id="13">
+    <se lang="kk"><w><ana lex="кел" gr="V,indic,sg,3p,fin" /><text>келші</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Где?</se>
+    </para>
+  <para id="14">
+    <se lang="kk"><w><ana lex="сен" gr="PRO,dat,sg,2p" /><text>Саған</text></w><w><ana lex="әкел" gr="V,praet,partcp" /><text>әкелген</text></w><w><ana lex="сыйлық" gr="S,nom" /><text>сыйлығым</text></w><w><ana lex="бар" gr="A" /><text>бар</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,indic,sg,3p,praet,fin" /><text>дейді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Там, на возу, — и рыба и воротник.</se>
+    </para>
+  <para id="15">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="қане" gr="INTJ" /><text>Қане</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ол" gr="PRO,nom,sg,3p" /><text>ол</text></w><w><ana lex="қандай" gr="PRO" /><text>қандай</text></w><w><ana lex="сыйлық" gr="S,nom" /><text>сыйлық</text></w><w><ana lex="?" gr="" /><text>?</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="сұра" gr="V,indic,sg,3p,praes,fin" /><text>сұрайды</text></w><w><ana lex="кемпір" gr="S,nom" /><text>кемпір</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Подошла баба к возу: ни воротника, ни рыбы — и начала ругать мужа:</se>
+    </para>
+  <para id="16">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="әне" gr="V,imper,sg,2p,fin" /><text>Әне</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үйіл" gr="V,indic,sg,3p,praet,fin" /><text>үйілген</text></w></se>
+    <se lang="ru">— Ах ты!</se>
+    </para>
+  <para id="17">
+    <se lang="kk"><w><ana lex="балық" gr="S,gen,pl" /><text>балықтардың</text></w><w><ana lex="үст" gr="S" /><text>үстінде</text></w><w><ana lex="тон" gr="S" /><text>тоныңа</text></w><w><ana lex="әдемі" gr="A" /><text>әдемі</text></w><w><ana lex="жақа" gr="S,nom" /><text>жаға</text></w><w><ana lex="жат" gr="V, aux,indic,sg,3p,praes,fin" /><text>жатыр</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="18">
+    <se lang="kk"><w><ana lex="бос" gr="A" /><text>Бос</text></w><w><ana lex="шанан" gr="S,acc" /><text>шананы</text></w><w><ana lex="көр" gr="V,indic,sg,3p,praet,fin" /><text>көрген</text></w></se>
+    <se lang="ru">Такой-сякой!</se>
+    </para>
+  <para id="19">
+    <se lang="kk"><w><ana lex="кемпір" gr="S,nom" /><text>кемпір</text></w><w><ana lex="аш" gr="V,ger" /><text>ашуланып</text></w><w><ana lex=":" gr="" /><text>:</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="қу" gr="PRO,nom" /><text>Қу</text></w><w><ana lex="шал" gr="S,nom" /><text>шал</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="мен" gr="PRO,acc,sg,1p" /><text>мені</text></w></se>
+    <se lang="ru">Ты еще вздумал обманывать!</se>
+    </para>
+  <para id="20">
+    <se lang="kk"><w><ana lex="алдамақшы" gr="ADV" /><text>алдамақшы</text></w><w><ana lex="бол" gr="V, aux,indic,sg,2p,praet,fin" /><text>болдың ба</text><ana lex="ма" gr="PART" /><text>болдың ба</text></w><w><ana lex="?" gr="" /><text>?</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="шал" gr="S,gen" /><text>шалдың</text></w><w><ana lex="жер-жебір" gr="S,dat" /><text>жер-жебіріне</text></w><w><ana lex="жет" gr="V,ger" /><text>жетіп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="айқай" gr="S,dat" /><text>айқайға</text></w><w><ana lex="баса" gr="V,indic,sg,3p,praes,fin" /><text>басады</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="балық" gr="S,gen" /><text>Балықтың да</text><ana lex="да" gr="ADV" /><text>Балықтың да</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="21">
+    <se lang="kk"><w><ana lex="түлік" gr="S,gen" /><text>түлкінің де</text><ana lex="да" gr="ADV" /><text>түлкінің де</text></w><w><ana lex="жоқ" gr="A" /><text>жоқ</text></w><w><ana lex="е" gr="V, aux,acc,praet" /><text>екенін</text></w><w><ana lex="көр" gr="V,praet,partcp" /><text>көрген</text></w><w><ana lex="шал" gr="S,nom" /><text>шал</text></w><w><ana lex="алдан" gr="V,acc,praet" /><text>алданғанын</text></w><w><ana lex="біл" gr="V,indic,sg,3p,praes,fin" /><text>біледі</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Тут дед смекнул, что лисичка-то была не мертвая.</se>
+    </para>
+  <para id="22">
+    <se lang="kk"><w><ana lex="өкініш" gr="S" /><text>Өкініштен</text></w><w><ana lex="сан" gr="S,acc" /><text>санын</text></w><w><ana lex="ұрғыл" gr="V,inf" /><text>ұрғылып</text></w><w><ana lex="қал" gr="V, aux,indic,sg,3p,praes,fin" /><text>қалады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Погоревал, погоревал, да делать-то нечего.</se>
+    </para>
+  <para id="23">
+    <se lang="kk"><w><ana lex="бұл" gr="DET" /><text>Бұл</text></w><w><ana lex="кез" gr="S" /><text>кезде</text></w><w><ana lex="қу" gr="A" /><text>қу</text></w><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w><w><ana lex="балық" gr="S,acc,pl" /><text>балықтарды</text></w><w><ana lex="бір" gr="DET" /><text>бір</text></w><w><ana lex="жер" gr="S,dat" /><text>жерге</text></w><w><ana lex="жина" gr="V,ger" /><text>жинап</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="рахатта" gr="V,ger" /><text>рахаттанып</text></w><w><ana lex="же" gr="V,inf" /><text>жеп</text></w><w><ana lex="отыр" gr="V, aux,indic,sg,3p,praet,fin" /><text>отырған</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">А лисичка собрала всю разбросанную рыбу в кучку, уселась на дорогу и кушает себе.</se>
+    </para>
+  <para id="24">
+    <se lang="kk"><w><ana lex="ол" gr="PRO,acc,sg,3p" /><text>Оны</text></w><w><ana lex="аш" gr="A" /><text>аш</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="көр" gr="V,ger" /><text>көріп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="қас" gr="S,dat" /><text>қасына</text></w><w><ana lex="кел" gr="V,indic,sg,3p,praes,fin" /><text>келеді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Приходит к ней серый волк:</se>
+    </para>
+  <para id="25">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="<UNK>мансың" gr="INTJ" /><text>Амансың ба</text><ana lex="ма" gr="PART" /><text>Амансың ба</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="түлкіжан" gr="S,nom" /><text>түлкіжан</text></w><w><ana lex="!" gr="" /><text>!</text></w></se>
+    <se lang="ru">— Здравствуй, сестрица!</se>
+    </para>
+  <para id="26">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="аман" gr="A" /><text>Аман</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="аман" gr="A" /><text>аман</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="аға" gr="S,nom" /><text>аға</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Здравствуй, братец!</se>
+    </para>
+  <para id="27">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="балық" gr="S" /><text>Балығыңнан</text></w></se>
+    <se lang="ru">— Дай мне рыбки!</se>
+    </para>
+  <para id="28">
+    <se lang="kk"><w><ana lex="мен" gr="PRO,dat,sg,1p" /><text>маған да</text><ana lex="да" gr="ADV" /><text>маған да</text></w><w><ana lex="бер" gr="V,indic,sg,1p,praet,fin" /><text>берсеңші</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="жоқ" gr="INTJ" /><text>Жоқ</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бер" gr="V,imper,sg,2p,fin" /><text>бере</text></w></se>
+    <se lang="ru">— Налови сам да и кушай.</se>
+    </para>
+  <para id="29">
+    <se lang="kk"><w><ana lex="ал" gr="V,indic,sg,1p,praes,fin" /><text>алмаймын</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Я не умею.</se>
+    </para>
+  <para id="30">
+    <se lang="kk"><w><ana lex="өз" gr="PRO,dat,sg,2p" /><text>Өзің</text></w><w><ana lex="аула" gr="S,nom" /><text>аула да</text><ana lex="да" gr="ADV" /><text>аула да</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="же" gr="V,inf" /><text>жей</text></w><w><ana lex="бер" gr="V, aux,imper,sg,2p,fin" /><text>бер</text></w><w><ana lex="!" gr="" /><text>!</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="31">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="мен" gr="PRO,nom,sg,1p" /><text>Мен</text></w><w><ana lex="аулау" gr="S,acc" /><text>аулауды</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="32">
+    <se lang="kk"><w><ana lex="біл" gr="V,indic,sg,1p,praes,fin" /><text>білмеймін</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="33">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="ол" gr="PRO,gen,sg,3p" /><text>Оның</text></w><w><ana lex="еш" gr="DET" /><text>еш</text></w><w><ana lex="қиындық" gr="S,nom" /><text>қиындығы</text></w><w><ana lex="жоқ" gr="A" /><text>жоқ</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Эка, ведь я же наловила!</se>
+    </para>
+  <para id="34">
+    <se lang="kk"><w><ana lex="өзен" gr="S,gen" /><text>Өзеннің</text></w><w><ana lex="орта" gr="S,dat" /><text>ортасына</text></w><w><ana lex="бар" gr="V,ger" /><text>барып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="мұз" gr="S,acc" /><text>мұзды</text></w><w><ana lex="ойы" gr="V,inf" /><text>ойып</text></w><w><ana lex="ал" gr="V, aux,indic,sg,3p,praet,fin" /><text>ал</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="35">
+    <se lang="kk"><w><ana lex="сол" gr="DET" /><text>Сол</text></w><w><ana lex="жер" gr="S,dat" /><text>жерге</text></w><w><ana lex="құйрық" gr="S,acc" /><text>құйрығыңды</text></w><w><ana lex="сал" gr="S,nom" /><text>сал да</text><ana lex="да" gr="ADV" /><text>сал да</text></w><w><ana lex=":" gr="" /><text>:</text></w><w><ana lex="«" gr="" /><text>«</text></w><w><ana lex="қармақ" gr="S,dat" /><text>Қармаққа</text></w><w><ana lex="іл" gr="V,imper,sg,2p,fin" /><text>ілінші</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үлкен" gr="S,nom" /><text>үлкені</text></w><w><ana lex="мен" gr="CONJ" /><text>мен</text></w><w><ana lex="кіші" gr="S,nom" /><text>кішісі</text></w><w><ana lex="»" gr="" /><text>»</text></w><w><ana lex="де" gr="V,sg,2p,ger" /><text>десең</text></w><w><ana lex="бол" gr="V, aux,indic,sg,3p,praet,fin" /><text>болды</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="балық" gr="S,nom,pl" /><text>балықтар</text></w><w><ana lex="өздік" gr="ADV" /><text>өздігінен</text></w></se>
+    <se lang="ru">Ты, братец, ступай на реку, опусти хвост в прорубь, сиди да приговаривай: «Ловись, рыбка, и мала и велика!</se>
+    </para>
+  <para id="36">
+    <se lang="kk"><w><ana lex="құйрық" gr="S,dat" /><text>құйрығыңа</text></w><w><ana lex="жармас" gr="V,indic,sg,3p,praes,fin" /><text>жармасады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Ловись, рыбка, и мала и велика!»</se>
+    </para>
+  <para id="37">
+    <se lang="kk"><w><ana lex="міне" gr="INTJ" /><text>Міне</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="осылай" gr="DET" /><text>осылай</text></w><w><ana lex="құйрық" gr="S,acc" /><text>құйрығыңды</text></w><w><ana lex="балық" gr="S,ins,pl" /><text>балықтармен</text></w><w><ana lex="бірге" gr="ADV" /><text>бірге</text></w><w><ana lex="суыр" gr="V,inf" /><text>суырып</text></w><w><ana lex="ал" gr="V, aux,indic,sg,1p,praes,fin" /><text>аласың</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Рыбка к тебе сама на хвост нацепится.</se>
+    </para>
+  <para id="38">
+    <se lang="kk"><w><ana lex="тек" gr="ADV" /><text>Тек</text></w><w><ana lex="ол" gr="PRO,nom,sg,3p" /><text>ол</text></w><w><ana lex="үшін" gr="PR" /><text>үшін</text></w><w><ana lex="ұзақ" gr="A" /><text>ұзақ</text></w><w><ana lex="отыр" gr="V,nom" /><text>отыру</text></w><w><ana lex="керек" gr="A" /><text>керек</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,praet,partcp" /><text>дей-ді</text></w><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w><w><ana lex="қула" gr="V,inf,pass" /><text>қуланып</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Да смотри сиди подольше, а то не наловишь.</se>
+    </para>
+  <para id="39">
+    <se lang="kk"><w><ana lex="аңқау" gr="A" /><text>Аңқау</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="түлік" gr="S,gen" /><text>түлкінің</text></w><w><ana lex="айт" gr="V,acc,praet" /><text>айтқанын</text></w><w><ana lex="екі" gr="NUM" /><text>екі</text></w><w><ana lex="ет" gr="V,ger" /><text>етпей</text></w><w><ana lex="орында" gr="V,indic,sg,3p,praes,fin" /><text>орындайды</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Волк и пошёл на реку, опустил хвост в прорубь и приговаривает:</se>
+    </para>
+  <para id="40">
+    <se lang="kk"><w><ana lex="өзен" gr="S,dat" /><text>Өзенге</text></w><w><ana lex="бар" gr="V,ger" /><text>барып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="мұз" gr="S,acc" /><text>мұзды</text></w><w><ana lex="оял" gr="V,indic,sg,3p,praes,fin" /><text>ояды</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Ловись, рыбка, и мала и велика!</se>
+    </para>
+  <para id="41">
+    <se lang="kk"><w><ana lex="құйрық" gr="S,acc" /><text>Құйрығын</text></w><w><ana lex="су" gr="S,dat" /><text>суға</text></w><w><ana lex="сал" gr="V,ger" /><text>салып</text></w><w><ana lex=":" gr="" /><text>:</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="Қармақ" gr="S, propn,dat" /><text>Қармаққа</text></w></se>
+    <se lang="ru">— Ловись, рыбка, и мала и велика!</se>
+    </para>
+  <para id="42">
+    <se lang="kk"><w><ana lex="іл" gr="V,indic,sg,3p,praet,fin" /><text>ілінші</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үлкен" gr="S,nom" /><text>үлкені</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="кіші" gr="S,nom" /><text>кішісі</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="қармаққа" gr="" /><text>Қармаққа</text></w><w><ana lex="іл" gr="V,indic,sg,3p,praet,fin" /><text>ілінші</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үлкен" gr="S,nom" /><text>үлкені</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="кіші" gr="S,nom" /><text>кішісі</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="қайт" gr="V,ger" /><text>қайта</text></w><w><ana lex="-" gr="" /><text>-</text></w><w><ana lex="қайт" gr="V,fin" /><text>қайта</text></w></se>
+    <se lang="ru">Вслед за ним и лиса явилась: ходит около волка да причитывает:</se>
+    </para>
+  <para id="43">
+    <se lang="kk"><w><ana lex="қайта" gr="V,ger" /><text>қайталап</text></w><w><ana lex="отыр" gr="V,inf" /><text>отыра</text></w><w><ana lex="бер" gr="V, aux,indic,sg,3p,praes,fin" /><text>береді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="44">
+    <se lang="kk"><w><ana lex="қасқыр" gr="S,gen" /><text>Қасқырдың</text></w><w><ana lex="соң" gr="S" /><text>соңынан</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="45">
+    <se lang="kk"><w><ana lex="өзен" gr="S,dat" /><text>өзенге</text></w><w><ana lex="түлкі" gr="S,nom" /><text>түлкі де</text><ana lex="да" gr="ADV" /><text>түлкі де</text></w><w><ana lex="жет" gr="V,indic,sg,3p,praes,fin" /><text>жетеді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Ясни, ясни на небе звёзды!</se>
+    </para>
+  <para id="46">
+    <se lang="kk"><w><ana lex="сырт" gr="S" /><text>Сыртынан</text></w><w><ana lex="бақыла" gr="V,inf" /><text>бақылап</text></w><w><ana lex="отыр" gr="V, aux,indic,sg,3p,praet,fin" /><text>отырған</text></w><w><ana lex="ол" gr="PRO,nom,sg,3p" /><text>ол</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru">— Мёрзни, мёрзни, волчий хвост!</se>
+    </para>
+  <para id="47">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="отыр" gr="S,nom" /><text>Отыр</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="отыр" gr="V, aux,indic,sg,3p,praes,fin" /><text>отыр</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="48">
+    <se lang="kk"><w><ana lex="құйрық" gr="S,nom" /><text>құйрығың</text></w><w><ana lex="мұз" gr="S,nom" /><text>Мұз</text></w><w><ana lex="бол" gr="V,ger" /><text>боп</text></w><w><ana lex="қат" gr="V,imper,sg,2p,fin" /><text>қатсын</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бұйрық" gr="S,nom" /><text>бұйрығым</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,indic,sg,3p,praes,fin" /><text>дейді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Что ты, лисичка-сестричка, говоришь?</se>
+    </para>
+  <para id="49">
+    <se lang="kk"><w><ana lex="түлік" gr="S,gen" /><text>Түлкінің</text></w><w><ana lex="сөз" gr="S,acc" /><text>сөзін</text></w></se>
+    <se lang="ru">— То я тебе помогаю.</se>
+    </para>
+  <para id="50">
+    <se lang="kk"><w><ana lex="шала" gr="ADV" /><text>шала</text></w><w><ana lex="есті" gr="V,praet,partcp" /><text>естіген</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex=":" gr="" /><text>:</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="Түлкіжан" gr="S, propn,nom,m" /><text>Түлкіжан</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru">А сама плутовка поминутно твердит:</se>
+    </para>
+  <para id="51">
+    <se lang="kk"><w><ana lex="бірдеңе" gr="PRO,nom" /><text>бірдеңе</text></w><w><ana lex="де" gr="V,indic,sg,2p,praet,fin" /><text>дедің бе</text><ana lex="ма" gr="PART" /><text>дедің бе</text></w><w><ana lex="?" gr="" /><text>?</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="сұра" gr="V,indic,sg,3p,praes,fin" /><text>сұрайды</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Мёрзни, мёрзни, волчий хвост!</se>
+    </para>
+  <para id="52">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="жо-жоқ" gr="INTJ" /><text>Жо-жоқ</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="53">
+    <se lang="kk"><w><ana lex="мен" gr="PRO,nom,sg,1p" /><text>Мен</text></w><w><ana lex="жәй" gr="ADV" /><text>жәй</text></w><w><ana lex="сен" gr="PRO,dat,sg,2p" /><text>саған</text></w><w><ana lex="көмектес" gr="V,inf" /><text>көмектесіп</text></w><w><ana lex="жат" gr="V, aux,indic,sg,1p,praes,fin" /><text>жатырмын да</text><ana lex="да" gr="PART" /><text>жатырмын да</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,indic,sg,3p,praet,fin" /><text>дейді де</text><ana lex="да" gr="ADV" /><text>дейді де</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="қайтадан" gr="ADV" /><text>қайтадан</text></w><w><ana lex=":" gr="" /><text>:</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="отыр" gr="V,imper,sg,2p,fin" /><text>Отыр</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="отыр" gr="V,imper,sg,2p,fin" /><text>отыр</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="құйрық" gr="S,nom" /><text>құйрығың</text></w><w><ana lex="мұз" gr="S,nom" /><text>Мұз</text></w><w><ana lex="бол" gr="V,ger" /><text>боп</text></w><w><ana lex="қат" gr="V,sg,2p,fin" /><text>қатсын</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бұйрық" gr="S,nom" /><text>бұйрығым</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,praet,fin" /><text>дейді</text></w><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w><w><ana lex="қула" gr="V,ger" /><text>қулана</text></w><w><ana lex="күл" gr="V,ger" /><text>күліп</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Долго-долго сидел волк у проруби, целую ночь не сходил с места, хвост его и приморозило; пробовал было приподняться; не тут-то было!</se>
+    </para>
+  <para id="54">
+    <se lang="kk"><w><ana lex="осылайша" gr="ADV" /><text>Осылайша</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="түні" gr="A" /><text>түні</text></w><w><ana lex="бойы" gr="PR" /><text>бойы</text></w><w><ana lex="тап" gr="V,ger" /><text>тапжылмай</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="балық" gr="S,nom" /><text>балық</text></w><w><ana lex="аула" gr="V,ger" /><text>аулап</text></w><w><ana lex="отыр" gr="V, aux,inf" /><text>отыра</text></w><w><ana lex="бер" gr="V, aux,indic,sg,3p,praes,fin" /><text>береді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">«Эка, сколько рыбы привалило — и не вытащишь!» — думает он.</se>
+    </para>
+  <para id="55">
+    <se lang="kk"><w><ana lex="судақ" gr="S" /><text>Судағы</text></w><w><ana lex="құйрық" gr="S,nom" /><text>құйрығы</text></w><w><ana lex="қат" gr="V,ger" /><text>қатып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ауырла" gr="V,indic,sg,3p,praet,fin" /><text>ауырлаған</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="56">
+    <se lang="kk"><w><ana lex="сайын" gr="ADV" /><text>сайын</text></w><w><ana lex="«" gr="" /><text>«</text></w><w><ana lex="балық" gr="S,nom,pl" /><text>балықтар</text></w><w><ana lex="е" gr="V, aux,indic,sg,3p,praes,fin" /><text>екен</text></w><w><ana lex="»" gr="" /><text>»</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="ойла" gr="V,indic,sg,3p,praes,fin" /><text>ойлайды</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="не" gr="PRO,nom" /><text>Не</text></w><w><ana lex="да" gr="ADV" /><text>де</text></w><w><ana lex="бол" gr="V, aux,sg,3p,ger" /><text>болса</text></w><w><ana lex="шыда" gr="V,ger" /><text>шыдап</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="құйрық" gr="S,acc" /><text>құйрығын</text></w><w><ana lex="мол" gr="A" /><text>мол</text></w><w><ana lex="балық" gr="S,ins" /><text>балықпен</text></w></se>
+    <se lang="ru">Смотрит, а бабы идут за водой и кричат, завидя серого:</se>
+    </para>
+  <para id="57">
+    <se lang="kk"><w><ana lex="шығар" gr="V,imper,sg,3p,fin" /><text>шығармақшы</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Волк, волк!</se>
+    </para>
+  <para id="58">
+    <se lang="kk"><w><ana lex="таң" gr="" /><text>Таң</text></w><w><ana lex="бозар" gr="V,inf" /><text>бозарып</text></w><w><ana lex="ат" gr="V, aux,indic,sg,2p,praes,fin" /><text>ата</text></w></se>
+    <se lang="ru">Бейте его!</se>
+    </para>
+  <para id="59">
+    <se lang="kk"><w><ana lex="баста" gr="V,praet,partcp" /><text>бастаған</text></w><w><ana lex="кез" gr="S" /><text>кезде</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="олжа" gr="S,acc" /><text>олжасын</text></w><w><ana lex="суыр" gr="V,ger" /><text>суырып</text></w><w><ana lex="ал" gr="V, aux,ger" /><text>алып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үй" gr="S,dat" /><text>үйіне</text></w><w><ana lex="қайт" gr="V,partcp" /><text>қайтпақшы</text></w><w><ana lex="е" gr="V, aux,indic,sg,3p,praet,fin" /><text>еді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="60">
+    <se lang="kk"><w><ana lex="бірақ" gr="CONJ" /><text>Бірақ</text></w><w><ana lex="әбден" gr="ADV" /><text>әбден</text></w><w><ana lex="мұз" gr="S,nom" /><text>мұз</text></w></se>
+    <se lang="ru">Бейте его!</se>
+    </para>
+  <para id="61">
+    <se lang="kk"><w><ana lex="бол" gr="V,ger" /><text>боп</text></w><w><ana lex="қат" gr="V,praet,partcp" /><text>қатқан</text></w><w><ana lex="құйрық" gr="S,nom" /><text>құйрығы</text></w><w><ana lex="су" gr="S" /><text>судан</text></w><w><ana lex="шық" gr="V,indic,sg,3p,praes,fin" /><text>шықпайды</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="ары-бері" gr="ADV" /><text>Ары-бері</text></w><w><ana lex="тарт" gr="V,ger" /><text>тартқылап</text></w><w><ana lex="көр" gr="V, aux,indic,sg,3p,praes,fin" /><text>көреді</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="«" gr="" /><text>«</text></w><w><ana lex="ұзақ" gr="ADV" /><text>Ұзақ</text></w><w><ana lex="отыр" gr="V,nom,praet" /><text>отырғаным</text></w><w><ana lex="дұрыс" gr="A" /><text>дұрыс</text></w><w><ana lex="бол" gr="V, aux,indic,sg,3p,praet,fin" /><text>болды</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Прибежали и начали колотить волка — кто коромыслом, кто ведром, кто чем попало.</se>
+    </para>
+  <para id="62">
+    <se lang="kk"><w><ana lex="жақсылап" gr="S,dat" /><text>Жақсылап</text></w><w><ana lex="бір" gr="DET" /><text>бір</text></w><w><ana lex="тоя" gr="V,sg,1p,fin" /><text>тоярмын</text></w><w><ana lex="»" gr="" /><text>»</text></w><w><ana lex="де" gr="V,indic,sg,3p,praes,fin" /><text>дейді</text></w><w><ana lex="өз" gr="PRO,acc" /><text>өзін</text></w><w><ana lex="жұбат" gr="V,ger" /><text>жұбатып</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="бұл" gr="DET" /><text>Бұл</text></w><w><ana lex="кез" gr="S" /><text>кезде</text></w><w><ana lex="өзен" gr="S,dat" /><text>өзенге</text></w><w><ana lex="су" gr="S,nom" /><text>су</text></w><w><ana lex="ал" gr="V,dat" /><text>алуға</text></w><w><ana lex="кел" gr="V,indic,sg,3p,praet,fin" /><text>келген</text></w></se>
+    <se lang="ru">Волк прыгал, прыгал, оторвал себе хвост и пустился без оглядки бежать.</se>
+    </para>
+  <para id="63">
+    <se lang="kk"><w><ana lex="қыз-келіншектер" gr="S,nom,pl" /><text>қыз-келіншектер</text></w><w><ana lex="ол" gr="PRO,acc" /><text>оны</text></w><w><ana lex="көр" gr="V,ger" /><text>көріп</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="64">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>Қасқыр</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ұры" gr="S,nom" /><text>ұры</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="65">
+    <se lang="kk"><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="ұстаң" gr="V,imper,sg,2p,fin" /><text>Ұстаңдар</text></w><w><ana lex="ол" gr="PRO,acc,sg,2p" /><text>оны</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ұрың" gr="V,imper,sg,2p,fin" /><text>ұрыңдар</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="айқай" gr="S,dat" /><text>айқайға</text></w><w><ana lex="баса" gr="V,indic,sg,3p,praes,fin" /><text>басады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">«Хорошо же, — думает, — уж я тебе отплачу, сестрица!»</se>
+    </para>
+  <para id="66">
+    <se lang="kk"><w><ana lex="қолдар" gr="S,dat,pl" /><text>Қолдарына</text></w><w><ana lex="түс" gr="V,praet,partcp" /><text>түскен</text></w><w><ana lex="зат" gr="S,ins,pl" /><text>заттарымен</text></w><w><ana lex="қасқыр" gr="S,acc" /><text>қасқырды</text></w><w><ana lex="соқ" gr="V,inf" /><text>соққылай</text></w><w><ana lex="баста" gr="V, aux,indic,sg,3p,praes,fin" /><text>бастайды</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="тоқпақ" gr="S,gen" /><text>Тоқпақтың</text></w><w><ana lex="аст" gr="S" /><text>астында</text></w><w><ana lex="қал" gr="V,praet,partcp" /><text>қалған</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="ар" gr="V,indic,sg,3p,praes,fin" /><text>ары</text></w></se>
+    <se lang="ru">Тем временем, пока волк отдувался своими боками, лисичка-сестричка захотела попробовать, не удастся ли ещё что-нибудь стянуть.</se>
+    </para>
+  <para id="67">
+    <se lang="kk"><w><ana lex="жұлқын" gr="V,ger" /><text>жұлқынып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бері" gr="S" /><text>бері</text></w><w><ana lex="жұлқын" gr="V,ger" /><text>жұлқынып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ақыр" gr="S" /><text>ақырында</text></w><w><ana lex="құйрық" gr="S,nom" /><text>құйрығы</text></w><w><ana lex="жұлын" gr="V,ger" /><text>жұлынып</text></w><w><ana lex="мұзда" gr="A" /><text>мұзда</text></w><w><ana lex="қал" gr="V, aux,indic,sg,3p,praes,fin" /><text>қалады</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="өз" gr="PRO,nom" /><text>Өзі</text></w><w><ana lex="алды-арт" gr="S,dat" /><text>алды-артына</text></w></se>
+    <se lang="ru">Забралась в одну избу, где бабы пекли блины, да попала головой в кадку с тестом, вымазалась и бежит.</se>
+    </para>
+  <para id="68">
+    <se lang="kk"><w><ana lex="қара" gr="V,ger" /><text>қарамай</text></w><w><ana lex="без" gr="V,indic,sg,3p,praes,fin" /><text>безеді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">А волк ей навстречу:</se>
+    </para>
+  <para id="69">
+    <se lang="kk"><w><ana lex="қаш" gr="V,ger" /><text>Қашып</text></w><w><ana lex="кел" gr="V, aux,inf" /><text>келе</text></w><w><ana lex="жат" gr="V, aux,indic,sg,3p,praes,fin" /><text>жатып</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru">— Так-то учишь ты?</se>
+    </para>
+  <para id="70">
+    <se lang="kk"><w><ana lex="«" gr="" /><text>«</text></w><w><ana lex="қап" gr="S,nom" /><text>Қап</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="бәлем" gr="S,nom" /><text>бәлем</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w><w><ana lex="!" gr="" /><text>!</text></w></se>
+    <se lang="ru">Меня всего исколотили!</se>
+    </para>
+  <para id="71">
+    <se lang="kk"><w><ana lex="қолыма" gr="S,dat" /><text>Қолыма</text></w><w><ana lex="түс" gr="V,sg,1p,ger" /><text>түссең</text></w><w><ana lex="оңдыр" gr="V,indic,sg,1p,praes,fin" /><text>оңдырмаймын</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="»" gr="" /><text>»</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="ойла" gr="V,indic,sg,3p,praes,fin" /><text>ойлайды</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="ал" gr="CONJ" /><text>Ал</text></w><w><ana lex="қу" gr="S,nom" /><text>қу</text></w><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w></se>
+    <se lang="ru">— Эх, волчику-братику! — говорит лисичка-сестричка.</se>
+    </para>
+  <para id="72">
+    <se lang="kk"><w><ana lex="уақыт" gr="S,acc" /><text>уақытын</text></w><w><ana lex="бос" gr="S,dat" /><text>босқа</text></w><w><ana lex="өткіз" gr="V,indic,pl,3p,praet,fin" /><text>өткізген жоқ</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="айқай-шу" gr="S,acc" /><text>Айқай-шуды</text></w><w><ana lex="пайдалан" gr="V,ger" /><text>пайдаланып</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ауыл" gr="S" /><text>ауылдағы</text></w><w><ana lex="бір" gr="DET" /><text>бір</text></w><w><ana lex="үй" gr="S,dat" /><text>үйге</text></w><w><ana lex="ұрлық" gr="S,dat" /><text>ұрлыққа</text></w><w><ana lex="түс" gr="V,indic,sg,3p,praes,fin" /><text>түседі</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— У тебя хоть кровь выступила, а у меня мозг, меня больней твоего прибили: я насилу плетусь.</se>
+    </para>
+  <para id="73">
+    <se lang="kk"><w><ana lex="қора" gr="S,dat" /><text>Қорасына</text></w><w><ana lex="кір" gr="V,ger" /><text>кіріп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="тап" gr="V,praet,partcp" /><text>тапқан</text></w><w><ana lex="тамақ" gr="S,acc" /><text>тамақты</text></w><w><ana lex="же" gr="V,ger" /><text>жеп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="тұмсық" gr="S,acc" /><text>тұмсығын</text></w><w><ana lex="ұн" gr="S,dat" /><text>ұнға</text></w><w><ana lex="мал" gr="V,ger" /><text>малып</text></w><w><ana lex="шық" gr="V,indic,sg,3p,praes,fin" /><text>шығады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="74">
+    <se lang="kk"><w><ana lex="сол" gr="PRO" /><text>Содан</text></w><w><ana lex="соң" gr="PR" /><text>соң</text></w><w><ana lex="қулық" gr="S,acc" /><text>қулығын</text></w><w><ana lex="асыр" gr="V,fin" /><text>асырмақ</text></w><w><ana lex="бол" gr="V, aux,ger" /><text>болып</text></w><w><ana lex="тағы" gr="ADV" /><text>тағы да</text><ana lex="да" gr="ADV" /><text>тағы да</text></w><w><ana lex="өтірік" gr="S,nom" /><text>өтірік</text></w><w><ana lex="өлгенс" gr="V,ger" /><text>өлгенсіп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="жол" gr="S,dat" /><text>жолға</text></w><w><ana lex="жат" gr="V,inf" /><text>жата</text></w><w><ana lex="кет" gr="V, aux,indic,sg,3p,praes,fin" /><text>кетеді</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="ол" gr="PRO,acc,sg,3p" /><text>Оны</text></w><w><ana lex="тіл" gr="S,nom" /><text>тілі</text></w></se>
+    <se lang="ru">— И то правда, — говорит волк, — где уж тебе, сестрица, идти, садись на меня, я тебя довезу.</se>
+    </para>
+  <para id="75">
+    <se lang="kk"><w><ana lex="салақта" gr="V,ger" /><text>салақтап</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="шарша" gr="V,inf" /><text>шаршап</text></w><w><ana lex="кел" gr="V, aux,inf" /><text>келе</text></w><w><ana lex="жат" gr="V, aux,praet,partcp" /><text>жатқан</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="көр" gr="V,indic,sg,3p,praes,fin" /><text>көреді де</text><ana lex="да" gr="ADV" /><text>көреді де</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="76">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="ал" gr="INTJ" /><text>Ал</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="түлкім" gr="S,nom" /><text>түлкім</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="77">
+    <se lang="kk"><w><ana lex="иман" gr="S,acc" /><text>иманыңды</text></w><w><ana lex="үйір" gr="V,inf" /><text>үйіре</text></w><w><ana lex="бер" gr="V, aux,imper,sg,2p,fin" /><text>бер</text></w><w><ana lex="!" gr="" /><text>!</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,indic,sg,3p,praes,fin" /><text>дейді</text></w><w><ana lex="аш" gr="V,partcp" /><text>ашу</text></w><w><ana lex="ша" gr="S" /><text>ша</text></w><w><ana lex="қыры" gr="V,ger" /><text>қырып</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Лисичка села ему на спину, он её и повёс.</se>
+    </para>
+  <para id="78">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="балық" gr="S,nom" /><text>Балық</text></w><w><ana lex="аулау" gr="S,acc" /><text>аулауды</text></w><w><ana lex="үй" gr="S,nom" /><text>үй</text></w><w><ana lex="рет" gr="V,sg,2p,fin" /><text>реткенің</text></w><w><ana lex="осы" gr="PART" /><text>осы ма</text></w><w><ana lex="?" gr="" /><text>?</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="79">
+    <se lang="kk"><w><ana lex="мен" gr="PRO,acc,sg,1p" /><text>Мені</text></w><w><ana lex="соқ" gr="ADV" /><text>соқ</text></w><w><ana lex="қық" gr="V,ger" /><text>қыға</text></w><w><ana lex="жықтыр" gr="V,indic,sg,2p,praes,fin" /><text>жықтырдың</text></w><w><ana lex="!" gr="" /><text>!</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="80">
+    <se lang="kk"><w><ana lex="түлкі" gr="S,nom" /><text>Түлкі</text></w><w><ana lex="бол" gr="V, aux,indic,sg,3p,fin" /><text>болса</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="81">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="сабыр" gr="S,nom" /><text>Сабыр</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="сабыр" gr="S,nom" /><text>сабыр</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="82">
+    <se lang="kk"><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="аға" gr="S,nom" /><text>аға</text></w><w><ana lex="." gr="" /><text>.</text></w><w><ana lex="сен" gr="PRO,nom,sg,2p" /><text>Сенен</text></w><w><ana lex="қан" gr="S,nom" /><text>қан</text></w><w><ana lex="ақса" gr="V,sg,3p,fin" /><text>ақса</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="мен" gr="PRO,gen,sg,1p" /><text>менің</text></w><w><ana lex="миым" gr="S,acc" /><text>миымды</text></w><w><ana lex="шаш" gr="V,indic,sg,2p,praet,fin" /><text>шашты</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="қарас" gr="V,imper,sg,1p,fin" /><text>қарасаңшы</text></w><w><ana lex="?" gr="" /><text>?</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="ұн" gr="ADV" /><text>ұн</text></w><w><ana lex="жақ" gr="V,indic,sg,3p,praet,fin,pass" /><text>жағылған</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="83">
+    <se lang="kk"><w><ana lex="тұмсық" gr="S,acc" /><text>тұмсығын</text></w><w><ana lex="көрсет" gr="V,inf" /><text>көрсетіп</text></w><w><ana lex="мүләйімси" gr="V, aux,indic,sg,3p,praet,fin" /><text>мүләйімсиді</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="84">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="сен" gr="PRO,dat,sg,2p" /><text>Саған</text></w><w><ana lex="менен" gr="ADV" /><text>менен де</text><ana lex="да" gr="ADV" /><text>менен де</text></w><w><ana lex="қиын" gr="A" /><text>қиын</text></w><w><ana lex="бол" gr="V, aux,indic,sg,3p,praet,fin" /><text>болған екен</text></w><w><ana lex="қой" gr="V, aux,indic,sg,3p,praes,fin" /><text>ғой</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,praet,partcp" /><text>дейді</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="тағы" gr="ADV" /><text>тағы да</text><ana lex="да" gr="ADV" /><text>тағы да</text></w><w><ana lex="алдан" gr="V,inf,pass" /><text>алданып</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">Вот лисичка-сестричка сидит, да потихоньку и говорит:</se>
+    </para>
+  <para id="85">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="кел" gr="V,imper,sg,2p,fin" /><text>Кел</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="арқама" gr="S,dat" /><text>арқама</text></w><w><ana lex="мін" gr="V,imper,sg,2p,fin" /><text>мін</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="үй" gr="S,dat" /><text>үйіңе</text></w></se>
+    <se lang="ru">Битый небитого везёт,</se>
+    </para>
+  <para id="86">
+    <se lang="kk"><w><ana lex="жеткіз" gr="V,inf" /><text>жеткізіп</text></w><w><ana lex="сал" gr="V,indic,sg,1p,praes,fin" /><text>салайын</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="87">
+    <se lang="kk"><w><ana lex="айлас" gr="S,acc" /><text>Айласын</text></w><w><ana lex="асыр" gr="V,praet,partcp" /><text>асырған</text></w><w><ana lex="қу" gr="S,nom" /><text>қу</text></w></se>
+    <se lang="ru">Битый небитого везёт!</se>
+    </para>
+  <para id="88">
+    <se lang="kk"><w><ana lex="түлкі" gr="S,nom" /><text>түлкі</text></w><w><ana lex="қасқыр" gr="S,gen" /><text>қасқырдың</text></w><w><ana lex="үст" gr="S" /><text>үстінде</text></w><w><ana lex="отыр" gr="V,ger" /><text>отырып</text></w><w><ana lex=":" gr="" /><text>:</text></w></se>
+    <se lang="ru">— Что ты, сестрица, говоришь?</se>
+    </para>
+  <para id="89">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="соқ" gr="V,indic,sg,3p,praet,fin" /><text>Соғылған</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="90">
+    <se lang="kk"><w><ana lex="соқ" gr="V,partcp" /><text>соғылмағ</text></w><w><ana lex="ан" gr="S,nom" /><text>анды</text></w><w><ana lex="арқала" gr="V,inf" /><text>арқалап</text></w><w><ana lex="кел" gr="V, aux,indic,sg,3p,praes,fin" /><text>келеді</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="өлең" gr="S,nom" /><text>өлең</text></w><w><ana lex="айт" gr="V,indic,sg,3p,praes,fin" /><text>айтады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="91">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="не" gr="PRO,nom" /><text>Не</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="кел" gr="V,indic,sg,2p,praes,fin" /><text>келесің</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="түлкіжан" gr="S,nom" /><text>түлкіжан</text></w><w><ana lex="?" gr="" /><text>?</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,indic,sg,3p,praet,fin" /><text>дейді</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru">— Я, братец, говорю: «Битый битого везёт».</se>
+    </para>
+  <para id="92">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="мен" gr="PRO,nom,sg,1p" /><text>Мен</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="аға" gr="S,nom" /><text>аға</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="93">
+    <se lang="kk"><w><ana lex="соқ" gr="V,praet,partcp,pass" /><text>соғылған</text></w><w><ana lex="соғылмаған" gr="S,acc" /><text>соғылмағанды</text></w><w><ana lex="арқала" gr="V,inf" /><text>арқалап</text></w><w><ana lex="кел" gr="V, aux,indic,sg,3p,praes,fin" /><text>келеді</text></w><w><ana lex="де" gr="V,indic,sg,1p,praes,fin" /><text>деймін де</text><ana lex="да" gr="PART" /><text>деймін де</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+  <para id="94">
+    <se lang="kk"><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="солай де" gr="INTJ" /><text>Солай де</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="түлкіжан" gr="S,nom" /><text>түлкіжан</text></w><w><ana lex="," gr="" /><text>,</text></w></se>
+    <se lang="ru">— Так, сестрица, так!</se>
+    </para>
+  <para id="95">
+    <se lang="kk"><w><ana lex="солай" gr="ADV" /><text>солай де</text><ana lex="да" gr="PART" /><text>солай де</text></w><w><ana lex="," gr="" /><text>,</text></w><w><ana lex="–" gr="" /><text>–</text></w><w><ana lex="де" gr="V,ger" /><text>деп</text></w><w><ana lex="түлкі" gr="S,acc" /><text>түлкіні</text></w><w><ana lex="арқала" gr="V,praet,partcp" /><text>арқалаған</text></w><w><ana lex="аңқау" gr="A" /><text>аңқау</text></w><w><ana lex="қасқыр" gr="S,nom" /><text>қасқыр</text></w><w><ana lex="кет" gr="V,inf" /><text>кете</text></w><w><ana lex="бар" gr="V, aux,indic,sg,3p,praes,fin" /><text>барады</text></w><w><ana lex="." gr="" /><text>.</text></w></se>
+    <se lang="ru" />
+    </para>
+</body>
+</html>

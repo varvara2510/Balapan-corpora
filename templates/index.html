@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Поиск</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: Lora, serif;
+        }
+        .header {
+            background-color: #303030;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .header a {
+            color: #ffe680;
+            font-size: 40px;
+            text-decoration: none;
+            font-family: 'Pacifico', cursive;
+        }
+
+        .search-section {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .search-section h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .container {
+            text-align: center;
+            margin-top: 100px;
+        }
+        .input-container {
+            max-width: 400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+        input[type="text"] {
+            width: 100%;
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        input[type="submit"] {
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+            background-color: #ffe680;
+            color: #303030;
+            cursor: pointer;
+        }
+
+        .footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: center;
+            font-family: Lora;
+        }
+
+        p {
+            margin-top: 30px;
+            font-size: 16pt;
+            padding: 0 15%;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <a href="#" class="logo">Balapan corpora</a>
+    </div>
+
+    <div class="container">
+        <h2>Чтобы начать поиск по параллельному корпусу, введите искомое слово</h2>
+        <div class="input-container">
+        <form action="/search" method="POST">
+                <input type="text" name="query" placeholder="Введите слово" style="height: 25px;">
+                <input type="submit" value="Искать" style="background-color: #ffe680; color: #303030;">
+            </form>
+        </div>
+        <p style="margin-top: 30px;">
+            Сәлеметсіз бе!<br>
+            Бұл сайттан сіз орыс және қазақ тілдеріндегі сөздердің қолданылу контексттерін таба аласыз, сонымен қатар олардың морфологиялық талдауын көре аласыз. Қазіргі уақытта мәтіндік деректер базасы әзірленуде, сондықтан барлық сөздерді контексттен табу мүмкін емес.<br>
+            Егер сіз қазақ тілін үйренуді бастағыңыз келсе, біздің <a href="https://classroom.google.com/c/NjA5MDY2ODY5NDYz?hl=ru&cjc=e5gr6rb">Әңгімелесу</a> курсына баруыңызға болады, онда бірнеше тақырыптық сабақтар бар!<br>
+            Біздің сайтқа кіргеніңіз үшін рахмет, қайта келіңіз!<br>
+            <br>
+            Здравствуйте!<br> 
+            На этом сайте вы можете найти контексты употребления слов на русском и казахском языке, а также посмотреть их морфологический разбор. На данный момент база текстов находится в разработке, поэтому не все слова могут встретиться в контекстах.<br>
+            Если вы хотите начать учить казахский язык, то можете посетить наш <a href="https://classroom.google.com/c/NjA5MDY2ODY5NDYz?hl=ru&cjc=e5gr6rb">Разговорный курс</a>, там уже появились некоторые тематические уроки!<br>
+            Спасибо, что посетили наш сайт, приходите еще!<br>
+        </p>
+    </div>
+
+    <div class="footer">
+        <p style="font-family: Lora;">vsmirnova@edu.hse.ru</p>
+    </footer>
+    
+    
+</body>
+</html>

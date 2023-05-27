@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Результаты поиска</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <style>
+         body {
+            margin: 0;
+            font-family: Lora, serif;
+        }
+        table {
+            border-collapse: collapse;
+            margin: 0 auto;
+        }
+        table, th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        .popup {
+            position: absolute;
+            display: none;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            z-index: 9999;
+        }
+        .header {
+            background-color: #303030;
+            text-align: center;
+            padding: 20px;
+        }
+        .header a {
+            color: #ffe680;
+            font-size: 40px;
+            text-decoration: none;
+            font-family: 'Pacifico', cursive;
+        }
+    </style>
+    <script>
+        function showPopup(event, popupId) {
+            const popup = document.getElementById(popupId);
+            popup.style.display = 'block';
+            popup.style.left = event.clientX + 'px';
+            popup.style.top = event.clientY + 'px';
+        }
+
+        function hidePopup(popupId) {
+            const popup = document.getElementById(popupId);
+            popup.style.display = 'none';
+        }
+    </script>
+</head>
+<body>
+    <div class="header">
+        <a href="#" class="logo">Balapan corpora</a>
+    </div>
+    <h2 style="text-align: center;">Результаты поиска</h2>
+    <table>
+        <tr>
+            <th>Предложение на казахском</th>
+            <th>Предложение на русском</th>
+            <th>Найдено в тексте</th>
+        </tr>
+        {% set seen_ids = [] %}
+        {% for hit in hits %}
+            {% if hit['_source']['id'] not in seen_ids %}
+                {% set _ = seen_ids.append(hit['_source']['id']) %}
+                <tr>
+                    <td>
+                        {{ hit['_source']['kk'] }}
+                    <ul>
+                        {% for kk_word in hit['_source']['kk_words'] %}
+                            <li onmouseover="showPopup(event, 'kk_word_{{ loop.index }}')" onmouseout="hidePopup('kk_word_{{ loop.index }}')">
+                            {{ kk_word['wf'] }} 
+                            <div class="popup" id="kk_word_{{ loop.index }}">
+                                <strong>Лемма:</strong> {{ kk_word['lex'] }}<br>
+                                <strong>Гр. признаки:</strong> {{ kk_word['gr_feats'] }}
+                            </div>
+                            </li>
+                        {% endfor %}
+                      </ul>
+                    </td>
+                    <td>
+                        {{ hit['_source']['ru'] }}
+                        <ul>
+                            {% for ru_word in hit['_source']['ru_words'] %}
+                                <li onmouseover="showPopup(event, 'ru_word_{{ loop.index }}')" onmouseout="hidePopup('ru_word_{{ loop.index }}')">
+                                    {{ ru_word['wf'] }}
+                                    <div class="popup" id="ru_word_{{ loop.index }}">
+                                        <strong>Лемма:</strong> {{ ru_word['lex'] }}<br>
+                                        <strong>Гр. признаки:</strong> {{ ru_word['gr_feats'] }}
+                                    </div>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            {% for metadata_dict in hit['_source']['metadata'] %}
+                                {% for key, value in metadata_dict.items() %}
+                                    <li><strong>{{ key }}:</strong> {{ value }}</li>
+                                {% endfor %}
+                            {% endfor %}
+                        </ul>
+                    </td>                                                                                   
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+</body>
+</html>
